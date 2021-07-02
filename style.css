@@ -1,0 +1,198 @@
+body {
+    margin: 0;
+}
+
+
+.menu-area {
+    display: block;
+    margin: 30px 0;
+}
+
+.menu-logo {
+    float: left;
+    margin-right: 130px;
+}
+
+.main-menu ul li {
+    float: left;
+    padding: 10px 20px;
+    list-style: none;
+}
+.main-menu ul li a:hover {
+    color: #a50eff;
+}
+.main-menu ul li a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #333;
+    font-size: 18px;
+    font-family: math;
+    transition: .40s;
+}
+
+
+.left-area a {
+    text-transform: capitalize;
+    font-family: math;
+    text-decoration: none;
+    padding: 13px 20px;
+    display: inline;
+    color: #fff;
+    background-color: #333;
+    border-radius: 15px;
+}
+
+.left-area {
+    padding-top: 12px;
+}
+a.sign-up-btn:hover {
+    background-color: #a50eff;
+}
+a.sign-up-btn {
+    margin-left: 20px;
+    background-color: #0f034a;
+    font-size: 20px;
+    transition: .40s;
+}
+
+a.notification-btn {
+    border-radius: 37px;
+    padding: 12px 19px;
+    color: #a50eff;
+    background-color: #efe1ff;
+    margin-left: 104px;
+}
+
+
+
+.heading-area {
+    background-image: url(images/heading-bg.jpg);
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+.image-area img {
+    width: 100%;
+}
+
+.heading-title {
+    padding: 10px 20px;
+}
+
+
+a#active {
+    color: #a50eff;
+}
+
+
+
+
+
+
+.heading-title span {
+    float: left;
+    padding-right: 10px;
+    color: gray;
+    text-transform: capitalize;
+    font-size: 21px;
+}
+
+.heading-title h5:hover {
+    color: #a50eff;
+}
+.heading-title h5 {
+    text-transform: capitalize;
+    color: #fff;
+    margin-top: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: .40s;
+}
+
+.heading-title h2:hover {
+    color: #a50eff;
+}
+.heading-title h2 {
+    text-transform: capitalize;
+    font-size: 45px;
+    color: #fff;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: .40s;
+}
+
+.heading-title p {
+    padding: 0px 5px 0px 0px;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+span#dote {
+    float: none;
+    font-size: 25px;
+    color: #ffff;
+    padding: 0px 1px;
+    background-color: #fff;
+    border-radius: 30px;
+    cursor: auto;
+    margin: 10px;
+}
+
+.heading-title h4:hover {
+    color: #a50eff;
+}
+.heading-title h4 {
+    color: #fff;
+    cursor: pointer;
+    transition: .40s;
+}
+
+
+
+
+
+
+
+.popular-category-area {
+    padding: 40px  0;
+    text-align: center;
+}
+.popular-category-area h5:hover {
+    color: #fff;
+    background-color: #a50eff;
+}
+.popular-category-area h5 {
+    background-color: #f4eaff;
+    transition: .40s;
+    text-align: center;
+    float: left;
+    padding: 20px 40px;
+    margin: 10px 25px;
+    border-radius: 12px;
+    color: #0f034a;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.top-category {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.middle-category {
+    display: inline-block;
+    text-align: center;
+}
+
+.bottom-category {
+    text-align: center;
+    display: inline-block;
+}
+
+.popular-category-area h3 {
+    padding: 40px 1px;
+    font-size: 40px;
+    text-transform: capitalize;
+    color: #0f034a;
+}
